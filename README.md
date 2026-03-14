@@ -7,5 +7,6 @@ Engineering student with interest in control system, automation and software dev
 
 ## Techical Skills
 - C/C++
+- Java
 - Python
 - MATLAB & SImulink
